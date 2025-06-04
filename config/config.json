@@ -1,0 +1,11 @@
+{
+	"server": {
+		"address": "0.0.0.0:8080",
+		"read_timeout": 5,
+		"write_timeout": 10,
+		"idle_timeout": 15
+	},
+	"database": {
+		"type": "memdb"
+	}
+}
